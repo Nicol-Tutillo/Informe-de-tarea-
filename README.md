@@ -1,100 +1,101 @@
-# Informe-de-tarea-
-INFORME DE LA TAREA
-1. OBJETIVOS
+# CIRCUITOS ELECTRONICOS 
+TUTILLO CHIMARRO NICOL CAROLINA  
+<h2><b>1. OBJETIVOS</b></h2>
 
     1.1 Objetivo General 
     
-Comprender los conceptos básicos de circuitos electrónicos y emplearlos correctamente al realizar operaciones y análisis matemáticos. 
+    Comprender los conceptos básicos de circuitos electrónicos y emplearlos correctamente al realizar operaciones y análisis matemáticos. 
 
-      1.2 Objetivos Específicos
-  -	Identificar que bases son necesarias al momento de calcular resistencias, intensidades y voltajes.
-  -	Identificar la señalética propia de los circuitos electrónicos y dar soluciones a los problemas planteados. 
-2. MARCO TEORICO 
+    1.2 Objetivos Específicos
+      
+    - Identificar que bases son necesarias al momento de calcular resistencias, intensidades y voltajes.
+    - Identificar la señalética propia de los circuitos electrónicos y dar soluciones a los problemas planteados. 
+<h2><b>2. MARCO TEORICO</b></h2>
     
-    [![MARCO-TEORICO-1.png](https://i.postimg.cc/d1MJk9Fd/MARCO-TEORICO-1.png)](https://postimg.cc/06CThDb2)
+   [![MARCO-TEORICO-1.png](https://i.postimg.cc/d1MJk9Fd/MARCO-TEORICO-1.png)](https://postimg.cc/06CThDb2)
     
    - Prefijos metricos mas usados 
 
-    [![PREFIJOS-METRICOS.png](https://i.postimg.cc/6q5gy78n/PREFIJOS-METRICOS.png)](https://postimg.cc/N9Spnj7j)
+   [![PREFIJOS-METRICOS.png](https://i.postimg.cc/6q5gy78n/PREFIJOS-METRICOS.png)](https://postimg.cc/N9Spnj7j)
     
    - Conversiones de unidades metricas 
 
-    [![CONVERSIONES-DE-UNIDADES-METRICAS.png](https://i.postimg.cc/pX5kkYMy/CONVERSIONES-DE-UNIDADES-METRICAS.png)](https://postimg.cc/9rVGQ9Mj)
+   [![CONVERSIONES-DE-UNIDADES-METRICAS.png](https://i.postimg.cc/pX5kkYMy/CONVERSIONES-DE-UNIDADES-METRICAS.png)](https://postimg.cc/9rVGQ9Mj)
     
-    CAPITULO 2
+   <b>CAPITULO 2</b>
     
-    - Estructura atomica 
+   - Estructura atomica 
 
-    [![ESTRUCTURA-ATOMICA.png](https://i.postimg.cc/RVtyqzFP/ESTRUCTURA-ATOMICA.png)](https://postimg.cc/Wh2XfC0r)
+   [![ESTRUCTURA-ATOMICA.png](https://i.postimg.cc/RVtyqzFP/ESTRUCTURA-ATOMICA.png)](https://postimg.cc/Wh2XfC0r)
     
-    - Categoria de materiales 
+   - Categoria de materiales 
 
-    [![CATEGORIA-DE-MATERIALES.png](https://i.postimg.cc/T16m9mV5/CATEGORIA-DE-MATERIALES.png)](https://postimg.cc/PpSPfCFd)
+   [![CATEGORIA-DE-MATERIALES.png](https://i.postimg.cc/T16m9mV5/CATEGORIA-DE-MATERIALES.png)](https://postimg.cc/PpSPfCFd)
     
-    - Carga Electrica 
+   - Carga Electrica 
 
-    [![CARGA-ELECTRICA.png](https://i.postimg.cc/h417nX8M/CARGA-ELECTRICA.png)](https://postimg.cc/9zzftFnq)
+   [![CARGA-ELECTRICA.png](https://i.postimg.cc/h417nX8M/CARGA-ELECTRICA.png)](https://postimg.cc/9zzftFnq)
     
-    - Carga positiva y negativa 
+   - Carga positiva y negativa 
 
-    [![CARGA-POSITIVA-Y-NEGATIVA.png](https://i.postimg.cc/fTFWQsPB/CARGA-POSITIVA-Y-NEGATIVA.png)](https://postimg.cc/7f3rSFw2)
+   [![CARGA-POSITIVA-Y-NEGATIVA.png](https://i.postimg.cc/fTFWQsPB/CARGA-POSITIVA-Y-NEGATIVA.png)](https://postimg.cc/7f3rSFw2)
     
-    - Voltaje, Corriente y Resistencia (Fuentes de voltaje)
+   - Voltaje, Corriente y Resistencia (Fuentes de voltaje)
 
-    [![VOLTAJE-CORRIENTE.png](https://i.postimg.cc/FKPNGQ0y/VOLTAJE-CORRIENTE.png)](https://postimg.cc/zLRsX6tv)
+   [![VOLTAJE-CORRIENTE.png](https://i.postimg.cc/FKPNGQ0y/VOLTAJE-CORRIENTE.png)](https://postimg.cc/zLRsX6tv)
     
-    [![FUENTES-DE-VOLTAJE.png](https://i.postimg.cc/0y8T4Bkc/FUENTES-DE-VOLTAJE.png)](https://postimg.cc/Tp4NLQWD)
+   [![FUENTES-DE-VOLTAJE.png](https://i.postimg.cc/0y8T4Bkc/FUENTES-DE-VOLTAJE.png)](https://postimg.cc/Tp4NLQWD)
     
-    - Tipos de fuenes de voltaje 
+   - Tipos de fuenes de voltaje 
 
-    [![TIPOS-DE-FUENTES-DE-VOLTAJE.png](https://i.postimg.cc/c4J757qf/TIPOS-DE-FUENTES-DE-VOLTAJE.png)](https://postimg.cc/QVRWFTdM)
+   [![TIPOS-DE-FUENTES-DE-VOLTAJE.png](https://i.postimg.cc/c4J757qf/TIPOS-DE-FUENTES-DE-VOLTAJE.png)](https://postimg.cc/QVRWFTdM)
     
-    - Resistores 
-        - Resistores fijos 
+   - Resistores 
+       - Resistores fijos 
         
         [![RESISTORES-FIJOS.png](https://i.postimg.cc/BQx8pXb2/RESISTORES-FIJOS.png)](https://postimg.cc/svgDDfp2)
         
-    - Codigo de colores para resistores 
+   - Codigo de colores para resistores 
 
-    [![CODIGO.png](https://i.postimg.cc/dVbxYNvb/CODIGO.png)](https://postimg.cc/dh9BRBh6)
+   [![CODIGO.png](https://i.postimg.cc/dVbxYNvb/CODIGO.png)](https://postimg.cc/dh9BRBh6)
     
-    - Codigo de rotulados para resistores 
+   - Codigo de rotulados para resistores 
 
-    [![ROTULACION.png](https://i.postimg.cc/YqgXxfQ8/ROTULACION.png)](https://postimg.cc/JGrcrX6B)
+   [![ROTULACION.png](https://i.postimg.cc/YqgXxfQ8/ROTULACION.png)](https://postimg.cc/JGrcrX6B)
     
-    - Resistores Variables 
+   - Resistores Variables 
 
-    [![RESISTORES-VARIABLES.png](https://i.postimg.cc/BnpBhhb5/RESISTORES-VARIABLES.png)](https://postimg.cc/nXsmrGvM)
+   [![RESISTORES-VARIABLES.png](https://i.postimg.cc/BnpBhhb5/RESISTORES-VARIABLES.png)](https://postimg.cc/nXsmrGvM)
         
-    - Circuito Electrico 
+   - Circuito Electrico 
 
-    [![CIRCUITO.png](https://i.postimg.cc/yxKJCHrD/CIRCUITO.png)](https://postimg.cc/5YP98ZJJ)
+   [![CIRCUITO.png](https://i.postimg.cc/yxKJCHrD/CIRCUITO.png)](https://postimg.cc/5YP98ZJJ)
     
-    [![GRAFICO-CIRC.png](https://i.postimg.cc/tCCT320G/GRAFICO-CIRC.png)](https://postimg.cc/bdWp80Nm)
+   [![GRAFICO-CIRC.png](https://i.postimg.cc/tCCT320G/GRAFICO-CIRC.png)](https://postimg.cc/bdWp80Nm)
     
-    - Medicion de resistencia 
+   - Medicion de resistencia 
 
-    [![MEDICIONES.png](https://i.postimg.cc/K8NqwPJb/MEDICIONES.png)](https://postimg.cc/3kkFDDsf)
+   [![MEDICIONES.png](https://i.postimg.cc/K8NqwPJb/MEDICIONES.png)](https://postimg.cc/3kkFDDsf)
     
- 4. EXPLICACION DEL PROCEDIMIENTO  
+ <h2><b>4. EXPLICACION DEL PROCEDIMIENTO</b></h2>  
 
-    Para la solución de los problemas planteados se a llevado a cabo los principios adquiridos, de igual modo se han aplicado los conceptos básicos de electrónica. 
-De este modo se siguieron una serie de pasos, tanto para el capítulo 1 como para el dos. 
+   Para la solución de los problemas planteados se a llevado a cabo los principios adquiridos, de igual modo se han aplicado los conceptos básicos de electrónica. 
+   De este modo se siguieron una serie de pasos, tanto para el capítulo 1 como para el dos. 
 
--	Procedimiento capítulo 1 
+<h3><b>- Procedimiento capítulo 1</b></h3>
 
 
-o	Primero se identificaron que tipo de problema se han planteado 
+    o	Primero se identificaron que tipo de problema se han planteado 
 
-o	Se continuo con un análisis para determinar las posibles soluciones del problema. 
+    o	Se continuo con un análisis para determinar las posibles soluciones del problema. 
 
-o	En el caso de los ejercicios planteados del 1-8 se aplicó notación científica, lo mismo que consistía en transformar de la notación decimal a notación científica, o viceversa, de notación científica a notación decimal. -
+    o	En el caso de los ejercicios planteados del 1-8 se aplicó notación científica, lo mismo que consistía en transformar de la notación decimal a notación científica, o viceversa, de notación científica a notación decimal. -
 
-o	Del ejercicio del 8-12 se realizaron operaciones básicas como las sumas, restas, división y multiplicación, en notación científica. 
+    o	Del ejercicio del 8-12 se realizaron operaciones básicas como las sumas, restas, división y multiplicación, en notación científica. 
 
-o	Del ejercicio 14-30 se aplicó la parte de notación de ingeniería misma que como se sabe pertenece al área de electrónica, en esta sección se hizo uso de los prefijos métricos para sus transformaciones. 
+    o	Del ejercicio 14-30 se aplicó la parte de notación de ingeniería misma que como se sabe pertenece al área de electrónica, en esta sección se hizo uso de los prefijos métricos para sus transformaciones. 
 
-- Solucion de ejercicios 
+<h3><b>- Solucion de ejercicios</b></h3> 
 
 1. Exprese cada número fraccionario en notación científica:
 
@@ -160,7 +161,23 @@ o	Del ejercicio 14-30 se aplicó la parte de notación de ingeniería misma que 
 
 [![pregunta-15.png](https://i.postimg.cc/05c7f4H8/pregunta-15.png)](https://postimg.cc/PNvLfSjc)
 
-    - Procedimiento capitulo 2 
+   <h3><b>- Procedimiento capitulo 2</b></h3>
+   
+       o	Para las soluciones de la primera sección de ejercicios se aplican las formuladas destinadas al cálculo de coulomb 
+       
+       y cantidad eléctrica, además de el calculo de voltaje, corriente y resistencia.   
+       
+
+       o	 Para la tercera sección de ejercicios se hizo uso las fórmulas de resistencias, además se emplearon los códigos 
+       
+       de colores para poder determinar la resistencia que cada resistor tiene.        
+       
+
+       o	Para sección cuatro, se emplearon los conceptos de un circuito electrónico, así como también su señalética, 
+       
+       para poder determinar mediante el grafico las soluciones    adecuadas.             
+        
+
     
 1.  ¿Cuál es la carga en coulombs del núcleo de un átomo de cloro?
 
@@ -247,10 +264,10 @@ La corriente se mantiene en el resistor 5 sin importar la posicion del interrupt
 aparecen en la figura 2-71. Muestre cómo se puede utilizar un solo interruptor para conectar el
 fonógrafo, el reproductor de discos compactos, la casetera, el sintonizador de AM, o el sintonizador de FM al amplificador mediante una sola perilla de control. En un momento dado, solamente una sección puede ser conectada al amplificador.
 
-[![ALTAVOCES.png](https://i.postimg.cc/13XQThYB/ALTAVOCES.png)](https://postimg.cc/svkqQ8zG)
+    [![ALTAVOCES.png](https://i.postimg.cc/13XQThYB/ALTAVOCES.png)](https://postimg.cc/svkqQ8zG)
 
-[![AMPLIFICADOR.png](https://i.postimg.cc/9MSQfXRL/AMPLIFICADOR.png)](https://postimg.cc/r01knk94)
-
+    [![AMPLIFICADOR.png](https://i.postimg.cc/9MSQfXRL/AMPLIFICADOR.png)](https://postimg.cc/r01knk94)
+    
 19. Explique cómo mediría la resistencia de R2 en la figura 2-72.
 
 [![pregunta-19.png](https://i.postimg.cc/nrpfTkTm/pregunta-19.png)](https://postimg.cc/vgqKZ5J8)
@@ -281,21 +298,18 @@ El ohmnimetro esta midiendo una carga aproximada en la escala de ohms de 10kΩ, 
 
 La resolución máxima de este multímetro mostrará hasta 19.999 recuentos de resolución. 
 
-o	Para las soluciones de la primera sección de ejercicios se aplican las formuladas destinadas al cálculo de coulomb y cantidad eléctrica, además de el calculo de voltaje, corriente y resistencia. 
-o	 Para la tercera sección de ejercicios se hizo uso las fórmulas de resistencias, además se emplearon los códigos de colores para poder determinar la resistencia que cada resistor tiene. 
-o	Para sección cuatro, se emplearon los conceptos de un circuito electrónico, así como también su señalética, para poder determinar mediante el grafico las soluciones adecuadas. 
-
    De este modo es como se emplearon los conceptos adquiridos durante toda la clase y tener una mejor perspectiva de como dar soluciones a los diferentes tipos de ejercicios planteados por el libro de Floyd. 
 
-4. VIDEO
-5. CONCLUSIONES 
+<h2></b>4. VIDEO</b></h2>
+<h2><b>5. CONCLUSIONES</b></h2> 
 
 -	Se observa como mediante formulas se puede calcular la corriente, el voltaje y el tiempo en el que la corriente esta circulado por un conductor. De igual manera se puede establecer la conductividad que mantienen los circuitos electrónicos, y determinar en base a los gráficos establecidos, sus resistencias totales y voltajes. 
 -	Además, se observa como mediante la notación científica e incluso la notación decimal se puede llegar a obtener la notación de ingeniería en base a un prefijo métrico, mismos que ayudaron de manera favorable para establecer respuestas claras y concretas. 
 
-6. BIBLIOGRAFIA  
+<h2><b>6. BIBLIOGRAFIA</b></h2>  
 
 Escobar, K. t. (S/N). Código de Colores Para Resistencias Eléctricas. Espacio Honduras. Obtenido de https://www.espaciohonduras.net/electronica/codigo-de-colores-para-resistencias-electricas
+
 Floyd, T. L., Salas, R. N., González, L. M. O., & López, G. P. (2007). Principios de circuitos eléctricos. Pearson Educación.
 
 
