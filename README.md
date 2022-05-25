@@ -239,7 +239,7 @@ o	Del ejercicio 14-30 se aplicó la parte de notación de ingeniería misma que 
 
 17. ¿A través de que resistor de la figura 2-70 siempre hay corriente, sin importar la posición de los interruptores?
 
-[![pregunta-17.png](https://i.postimg.cc/KvW8fXSh/pregunta-17.png)](https://postimg.cc/3dghrcxt)
+[![nuevo.png](https://i.postimg.cc/HW4vD5T6/nuevo.png)](https://postimg.cc/8scmL7Jv)
 
 La corriente se mantiene en el resistor 5 sin importar la posicion del interruptor, ya que, la energia parte de la bateria y pasa por los demas resistores, trantando de busca tierra, por lo que en el RESISTOR 5 esta energia se va mantener sin importar la posicion del interruptor.  
 
@@ -247,7 +247,9 @@ La corriente se mantiene en el resistor 5 sin importar la posicion del interrupt
 aparecen en la figura 2-71. Muestre cómo se puede utilizar un solo interruptor para conectar el
 fonógrafo, el reproductor de discos compactos, la casetera, el sintonizador de AM, o el sintonizador de FM al amplificador mediante una sola perilla de control. En un momento dado, solamente una sección puede ser conectada al amplificador.
 
+[![ALTAVOCES.png](https://i.postimg.cc/13XQThYB/ALTAVOCES.png)](https://postimg.cc/svkqQ8zG)
 
+[![AMPLIFICADOR.png](https://i.postimg.cc/9MSQfXRL/AMPLIFICADOR.png)](https://postimg.cc/r01knk94)
 
 19. Explique cómo mediría la resistencia de R2 en la figura 2-72.
 
@@ -255,17 +257,30 @@ fonógrafo, el reproductor de discos compactos, la casetera, el sintonizador de 
 
 El valor de la resistncia de R2, va ser medida con un voltimetro, mismo que sera ubicado en los dos extremos del resistor, este sera ubicado en forma de paralelo cependiendo la polaridad del circuito sobre el que se quiere realizar la medida. 
 
+[![CORRECTO.png](https://i.postimg.cc/2ytqZFqN/CORRECTO.png)](https://postimg.cc/q68MfKX1)
+
 20. En la figura 2-73, indique cómo se conecta un amperímetro para medir la corriente que sale de la fuente de voltaje sin importar la posición del interruptor.
 
-[![pregunta-20.png](https://i.postimg.cc/KYQTZZs3/pregunta-20.png)](https://postimg.cc/1gnXBZSy)
+[![aplicacion.png](https://i.postimg.cc/fR3vL0hn/aplicacion.png)](https://postimg.cc/QF37YCt0)
 
 Para empezar el amperimetro es el que va permitir medir la intensidad de la corriente electrica, por lo que este va ser ubicado en serie dentro del circuito, de igual manera se dependera de la polaridad con la que se encuentra el circuito electrico. Acontinuacion se presenta graficamente la posicion del amperimetro. 
 
 [![pregunta-20.png](https://i.postimg.cc/KYQTZZs3/pregunta-20.png)](https://postimg.cc/1gnXBZSy)
 
 21. Muestre la colocación apropiada de los voltímetros para medir el voltaje a través de cada resistor presente en la figura 2-70.
+
+[![VOLTIMETRO.png](https://i.postimg.cc/Zn4HQmj5/VOLTIMETRO.png)](https://postimg.cc/FdC0f22M)
+
 22. ¿Cuánta resistencia está midiendo el ohmmetro de la figura 2-75?
-23. 46. ¿Cuál es la resolución máxima de un multímetro digital de 4 1/2 dígitos?
+
+[![medidor.png](https://i.postimg.cc/YqL32W7c/medidor.png)](https://postimg.cc/jLKNZCCv)
+
+El ohmnimetro esta midiendo una carga aproximada en la escala de ohms de 10kΩ, ya que, se encuentra en un intervalo de 1k 
+
+23. ¿Cuál es la resolución máxima de un multímetro digital de 4 1/2 dígitos?
+
+La resolución máxima de este multímetro mostrará hasta 19.999 recuentos de resolución. 
+
 o	Para las soluciones de la primera sección de ejercicios se aplican las formuladas destinadas al cálculo de coulomb y cantidad eléctrica, además de el calculo de voltaje, corriente y resistencia. 
 o	 Para la tercera sección de ejercicios se hizo uso las fórmulas de resistencias, además se emplearon los códigos de colores para poder determinar la resistencia que cada resistor tiene. 
 o	Para sección cuatro, se emplearon los conceptos de un circuito electrónico, así como también su señalética, para poder determinar mediante el grafico las soluciones adecuadas. 
