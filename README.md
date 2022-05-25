@@ -301,6 +301,10 @@ La resolución máxima de este multímetro mostrará hasta 19.999 recuentos de r
    De este modo es como se emplearon los conceptos adquiridos durante toda la clase y tener una mejor perspectiva de como dar soluciones a los diferentes tipos de ejercicios planteados por el libro de Floyd. 
 
 <h2></b>4. VIDEO</b></h2>
+
+https://youtu.be/NMB4daUr41M
+
+
 <h2><b>5. CONCLUSIONES</b></h2> 
 
 -	Se observa como mediante formulas se puede calcular la corriente, el voltaje y el tiempo en el que la corriente esta circulado por un conductor. De igual manera se puede establecer la conductividad que mantienen los circuitos electrónicos, y determinar en base a los gráficos establecidos, sus resistencias totales y voltajes. 
